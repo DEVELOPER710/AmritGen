@@ -26,6 +26,16 @@ nav{
     justify-content:space-between;
     align-items:center;
 }
+.logo-container {
+    display:flex;
+    align-items:center;
+    gap:12px;
+}
+.nav-logo {
+    height:32px;
+    width:auto;
+    object-fit:contain;
+}
 nav ul{
     display:flex;
     gap:24px;
