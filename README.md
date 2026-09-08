@@ -1,2 +1,2 @@
 # AmritGen
-AmritGen Webste for Smart India Hackathon 2026
+AmritGen Website for Smart India Hackathon 2026
