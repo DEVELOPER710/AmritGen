@@ -119,3 +119,8 @@ footer{
     background:#020617;
     color:#94a3b8;
 }
+iframe{
+    border:none;
+    border-radius:20px;
+    background:#1e293b;
+}
