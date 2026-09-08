@@ -109,10 +109,6 @@ nav a{
     border-radius:15px;
     text-align:center;
 }
-.tech{
-    padding-left:20px;
-    line-height:2;
-}
 footer{
     text-align:center;
     padding:30px;
@@ -123,4 +119,32 @@ iframe{
     border:none;
     border-radius:20px;
     background:#1e293b;
+    margin-top:20px;
+}
+.members{
+    display:grid;
+    grid-template-columns:repeat(auto-fit,minmax(220px,1fr));
+    gap:15px;
+    list-style:none;
+    padding:0;
+    margin-top:20px;
+}
+.members li{
+    background:#1e293b;
+    padding:18px;
+    border-radius:12px;
+    text-align:center;
+}
+.tech{
+    display:grid;
+    grid-template-columns:repeat(auto-fit,minmax(220px,1fr));
+    gap:15px;
+    list-style:none;
+    padding:0;
+}
+.tech li{
+    background:#1e293b;
+    padding:18px;
+    border-radius:12px;
+    text-align:center;
 }
